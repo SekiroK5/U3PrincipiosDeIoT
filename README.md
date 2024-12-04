@@ -23,7 +23,7 @@ https://vm.tiktok.com/ZMkeY88ag/
 
 | Material                | Imagen                                                                 | Cantidad | Costo |
 |-------------------------|------------------------------------------------------------------------|----------|-------|
-| ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> | 1        | 120   |
+| ESP32                   | <img src="https://github.com/user-attachments/assets/f3099b50-c652-436f-bd88-ca77c850709a" width="150" /> | 3        | 396   |
 | Tira de LED RGB         | <img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/20285eb3c/tira-led-multicolor-rgb-de-5-m.jpg" width="150" />     | 1        | 80    |
 | Motor Servo             | <img src="https://www.steren.com.mx/media/catalog/product/cache/0236bbabe616ddcff749ccbc14f38bf2/image/196043d46/micro-servomotor-con-torque-de-1-8-kgf-cm.jpg" width="150" />    | 1        | 60    |
 | Módulo de sonido        | <img src="https://m.media-amazon.com/images/I/51dVJdAm7mL._AC_UF1000,1000_QL80_.jpg" width="150" />   | 1        | 50    |
