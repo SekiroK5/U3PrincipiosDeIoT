@@ -34,3 +34,12 @@ https://vm.tiktok.com/ZMkeY88ag/
 | Protoboard              | <img src="https://aelectronics.com.mx/893/protoboard-blanca-de-830-puntos.jpg" width="150" />     | 1        | 15    |
 | Tela (Fieltro o Algodón)| <img src="https://m.media-amazon.com/images/I/91dwfQpgQjL._AC_UF894,1000_QL80_.jpg" width="150" />    | 1        | 30    | Tela suave que se usará para cubrir la estructura del duende y darle una apariencia decorativa. |
 | Cartón                  | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnLIQAjgcOgnoNidi9iGAqGWCgLKrnXPPeJA&s" width="150" />      | 1        | 20    | Cartón utilizado para crear la estructura base del duende.                                   |
+
+
+## Software Utilizado
+
+| **Software**    | **Versión** |
+|-----------------|-------------|
+| Thonny          | 4.1.6       |
+| Arduino IDE     | 2.3.3      | 
+
