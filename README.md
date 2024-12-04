@@ -1,16 +1,22 @@
 # U3PrincipiosDeIoT #
-
+---
 ## Nombre del Proyecto
   Duende Navideño
+
+---
 ## Creadores GDS0641
+
 | *Nombre Completo*| *Numero de Control* |
 |-----------------|-------------|
 | Chavero Martínez Noé | 1223100837 |
 | Gonzáles Avalos César Fernando | 1223100745 |
 
+---
 ## Funcionamiento
+
 El duende mediante el sensor de proximidad detectará la distancia, lo que hará que se muevan las manos, la tira led que se encuentra en el gorro se encenderá en un partón aleatorio, mediante Node-Red; se controlaran sus leds, dandole un color al gusto de la persona y una funcionalidad diferente, de igual manera, por Node-Red se mandará una señal al buzzer para que este empiece a sonar, por último, se puede controlar el led RGB dandole diferentes modos, las pantallas oled mantendrán un fondo simulando que cae nieve y el mensaje de la Matriz puede ser cambiado desde la consola de texto que se encuentra en Node-red.
 
+---
 ## Materiales utilizados:
 
 | Material                | Imagen                                                                 | Cantidad | Costo |
@@ -31,6 +37,7 @@ El duende mediante el sensor de proximidad detectará la distancia, lo que hará
 | Led RGB            | <img src="https://aelectronics.com.mx/metepec/5730-large_default/led-rgb-5mm-catodo-comun.jpg" width="150" />    | 1        | $2    |
 | Sensor HC-SR04           | <img src="https://www.geekfactory.mx/wp-content/uploads/pinout-o-patillaje-sensor-hc-sr04.jpg" width="150" />    | 1       | $30    |
 
+---
 ## Software Utilizado
 
 | **Software**    | **Versión** |
@@ -38,29 +45,45 @@ El duende mediante el sensor de proximidad detectará la distancia, lo que hará
 | Thonny          | 4.1.6       |
 | Arduino IDE     | 2.3.3      | 
 
-
+---
 ## Prototipo y Evidencias de Avance
 https://drive.google.com/drive/u/0/folders/1K9i9dTAwOy8r67ZcQemhziRxffniOADQ
 
+---
 ## Flujo de Node-Red y visualización en el Dashboard
+
 https://drive.google.com/drive/u/0/folders/1OxwkCIXUBDlbKlgMdwGnHxCUFvBRhV_f
 
+---
 ## Link de TIKTOK del vídeo funcional
+
 https://vm.tiktok.com/ZMkeY88ag/
 
+---
 ## Examenes de NetaCad JavaScript
+
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
 | Chavero Martínez Noé | https://drive.google.com/drive/u/0/folders/1l4sxrjPbzvsnhz7PcNK21zvHOSJfkE9T |
 | Gonzáles Avalos César Fernando | https://drive.google.com/drive/folders/1aO0QwhdXdoQbOhvzROJhbEpXkvOZhwRr?usp=sharing |
 
 
+---
+## Coevaluación 
 
-## Coevaluaciones
 *Coevaluación de Noé Chavero Martínez a César Fernando Gonzáles Avalos*
 
+
+---
 *Coevaluación de César Fernando Gonzáles Avalos a Noé Chavero Martínez*
 
+#### Nombre de mi compañero --> Chavero Martínez Noé
+#### Calificación --> 9.4/10
+**Descripción -->** Mi compañero fue excelente al armar rápidamente los circuitos que haciamos en la ESP32 y siempre estuvo dispuesto a colaborar con los materiales necesarios, lo cual ayudó mucho al avance del proyecto. Además, cumplió con su parte de la evaluación sin problemas, lo que hizo que el trabajo en equipo fuera mucho más fluido. Destaco también su capacidad para escuchar y proponer ideas: cada vez que tuve problemas con el código, él siempre me daba sugerencias útiles para corregir los errores.
+
+En cuanto a áreas de mejora, aunque montaba el circuito muy rápido, en algunas ocasiones conectaba mal ciertos cables o componentes, lo cual requería ajustes posteriores. También, algunas veces el punteado no era el adecuado, y al grabar los videos se ponía un poco nervioso, lo que afectaba el resultado final.
+
+En general, trabajamos muy bien juntos y considero que es un muy buen compañero. Su disposición para colaborar y su habilidad para resolver problemas técnicos son aspectos que valoro mucho.
 
 
 
