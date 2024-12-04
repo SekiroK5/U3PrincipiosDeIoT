@@ -1,8 +1,8 @@
-# U3PrincipiosDeIoT
+# U3PrincipiosDeIoT #
 
-# Nombre del Proyecto
+## Nombre del Proyecto
   Duende Navideño
-# Creadores GDS0641
+## Creadores GDS0641
 | *Nombre Completo*| *Numero de Control* |
 |-----------------|-------------|
 | Chavero Martínez Noé | 1223100837 |
@@ -45,10 +45,10 @@ https://drive.google.com/drive/u/0/folders/1K9i9dTAwOy8r67ZcQemhziRxffniOADQ
 ## Flujo de Node-Red y visualización en el Dashboard
 https://drive.google.com/drive/u/0/folders/1OxwkCIXUBDlbKlgMdwGnHxCUFvBRhV_f
 
-# Link de TIKTOK del vídeo funcional
+## Link de TIKTOK del vídeo funcional
 https://vm.tiktok.com/ZMkeY88ag/
 
-# Examenes de NetaCad JavaScript
+## Examenes de NetaCad JavaScript
 | *Nombre Completo*| *Link De Drive* |
 |-----------------|-------------|
 | Chavero Martínez Noé | https://drive.google.com/drive/u/0/folders/1l4sxrjPbzvsnhz7PcNK21zvHOSJfkE9T |
